@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\meleeGun.js">
+    <Files>
+      <File FileName="Assets\Scripts\meleeMace.js" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\meleeSword.js" Line="6" Column="14" />
+      <File FileName="Assets\Scripts\meleeGun.js" Line="35" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
